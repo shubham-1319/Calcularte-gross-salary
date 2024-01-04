@@ -1,5 +1,6 @@
 // calcularte gross salary
 //Create by Me...
+//this program is user defined the user have to enter the data in the required filed....
 #include <stdio.h>
 void main()
 {
